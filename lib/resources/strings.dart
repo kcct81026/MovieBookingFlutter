@@ -1,0 +1,21 @@
+const APP_TITLE = "Movie Booking App";
+const NAV_MOVIE_TITLE = "Movies";
+const NAV_CINEMA_TITLE = "Cinema";
+const NAV_TICKET_TITLE = "Ticket";
+const NAV_PROFILE_TITLE = "Profile";
+
+const NOW_SHOWING_TITLE = "Now Showing";
+const COMING_SOON_TITLE = "Coming Soon";
+const STORY_LINE_TITLE = "Story Line";
+const RATING_TITLE= "Censor Rating";
+const RELEASE_DATE_TITLE = "Release Date";
+const DURATION_TITLE = "Duration";
+const CAST_TITLE = "Cast";
+const BOOKING_TITLE = "Booking";
+const SET_NOTIFICATION_TITLE = "Set Notification";
+const REMINDER_NOTI_TEXT = "Get notify as soon as movie booking opens up in your city!";
+const SEARCH_MOVIE_TITLE = "Search the movie";
+const COMBO_APPBAR_TITLE = "Grab a bite!";
+const SKIP_TITLE = "SKIP";
+const ADD_TITLE = "ADD";
+const TICKET_TITLE = "Your Ticket";
